@@ -1,0 +1,9 @@
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "tagbar"]
+	path = tagbar
+	url = git://github.com/majutsushi/tagbar
+[submodule "vim-template"]
+	path = vim-template
+	url = git://github.com/aperezdc/vim-template.git
