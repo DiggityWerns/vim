@@ -1,5 +1,5 @@
 # vim
-backcup ~/.vim and ~/.vimrc
+backup ~/.vim and ~/.vimrc
 
 Clone into ~/.vim
 
