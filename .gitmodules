@@ -7,3 +7,12 @@
 [submodule "vim-template"]
 	path = vim-template
 	url = git://github.com/aperezdc/vim-template.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git://github.com/majutsushi/tagbar
+[submodule "bundle/vim-template"]
+	path = bundle/vim-template
+	url = git://github.com/aperezdc/vim-template.git
